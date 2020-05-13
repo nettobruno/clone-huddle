@@ -42,7 +42,7 @@ div#content {
 }
 
 div#content div.img img#illustration {
-  width: 100%;
+  /* position: relative; */
 }
 
 div#content div.text {
